@@ -20,8 +20,16 @@
 	    }
 	    echo PHP_EOL;
 	}*/
+	/**
+	 * @AuthorHTL
+	 * @DateTime  2018-07-09T11:26:10+0800
+	 * @param     [type]
+	 * @param     [type]
+	 * @return    [type]
+	 */
+	function sum($a,$b){
 
-
+	}
 	
 
 /*
@@ -60,3 +68,29 @@
 17	RPUSHX key value 
 为已存在的列表添加值
 */
+
+
+	/**
+	 * @AuthorHTL
+	 * @DateTime  2018-07-09T11:26:24+0800
+	 * @param     [type]
+	 * @param     [type]
+	 * @param     integer
+	 * @return    [type]
+	 */
+	function hello($name,$age,$sex=1){
+
+	}
+	/**
+	 * @AuthorHTL
+	 * @DateTime  2018-07-09T11:26:50+0800
+	 * @param     [type]
+	 * @param     [type]
+	 * @return    [type]
+	 */
+	function getExt($a,$c){
+
+	}
+
+
+	$a = 100;
